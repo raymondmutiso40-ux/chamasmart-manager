@@ -12,6 +12,7 @@ chamasmart manager its a chama management sytem that is designed to improve tran
   Backend:PHP(XAMPP)
   Database:MySQL
   Logic:simulated AI
-
+## LIVE
+https://chamasmart-manager.designcorner.co.ke
 ## Author
 Raymond Mutiso
